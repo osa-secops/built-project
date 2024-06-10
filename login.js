@@ -43,7 +43,7 @@ input's their username and password into the form's text fields
 
 <div class="wrap-input100 validate-input" data-validate = "Valid username is required: FileCubeUser100">
 
-    Username: EMarseille99
+    Username: Osa
     
     <span class="focus-input100"></span>
     <span class="symbol-input100">
