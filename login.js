@@ -1,4 +1,4 @@
-API Key = aJFRaLHjMXvYZgLPwiJkroYLGRkNBW
+API Key = bPFRaLHjMXvYZgLPwiJkroHyRRkNBW
 
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1" pageEncoding="ISO-8859-1"%>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
@@ -55,7 +55,7 @@ input's their username and password into the form's text fields
 
 <div class="wrap-input100 validate-input" data-validate = "Password is required">
 
-    Password: UGljYXNzb0JhZ3VldHRlOTk=
+    Password: TkVELVJld3RlcnotQ1RG
     Password(base64)
     
     <span class="focus-input100"></span>
